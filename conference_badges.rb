@@ -14,5 +14,5 @@ end
 
 def assign_rooms(array)
   room_assignment = []
-  array.each_with_index {|name, i| puts "#{i}, #{name}"
+  array.each_with_index {|name, i| puts "#{i}, #{name}"}
 end
